@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import DownloadIcon from "../../assets/download.png";
 import GitHubIcon from "../../assets/github.png";
 import LinkedInIcon from "../../assets/linkedin.png";
-import MyProfile from "../../assets/Daniru.jpg";
+import MyProfile from "../../assets/daniru.jpg";
 import MyResume from "../../assets/Daniru.pdf";
 import { RevealOnScroll } from "../RevealOnScroll";
 
