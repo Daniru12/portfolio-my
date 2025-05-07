@@ -3,7 +3,7 @@ import DownloadIcon from "../../assets/download.png";
 import GitHubIcon from "../../assets/github.png";
 import LinkedInIcon from "../../assets/linkedin.png";
 import MyProfile from "../../assets/daniru.jpg";
-import MyResume from "../../assets/Daniru.pdf";
+import MyResume from "../../assets/daniru.pdf";
 import { RevealOnScroll } from "../RevealOnScroll";
 
 
