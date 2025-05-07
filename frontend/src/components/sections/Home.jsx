@@ -6,6 +6,7 @@ import MyProfile from "../../assets/daniru.jpg";
 import MyResume from "../../assets/Daniru.pdf";
 import { RevealOnScroll } from "../RevealOnScroll";
 
+
 export const Home = () => {
   const [isLoaded, setIsLoaded] = useState(false);
   const [typedText, setTypedText] = useState("");
